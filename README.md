@@ -9,8 +9,9 @@ A simple Student CRUD API built using FastAPI and Pydantic.
 Features
 This project provides five CRUD operations:
 
-Create a student
+<!-- Create a student
 Get all students
 Get a student by ID
 Update a student
-Delete a student -->
+Delete a student --> -->
+
